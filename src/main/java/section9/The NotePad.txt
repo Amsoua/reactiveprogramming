@@ -1,0 +1,7 @@
+Microservice : Les microservices désignent une approche architecturale du développement d'applications.
+En tant que cadre architectural, les microservices sont distribués et faiblement couplés,
+de sorte que les modifications apportées par une équipe n'affectent pas l'ensemble de l'application.
+L'avantage des microservices est que les équipes de développement sont en mesure de créer rapidement de nouveaux composants d'applications pour répondre aux évolutions des besoins de l'entreprise.
+Une architecture de microservices se différencie d'une approche monolithique classique par le fait qu'elle décompose une application pour en isoler les fonctions clés.
+Chacune de ces fonctions est appelée « service » et ces services peuvent être développés et déployés indépendamment les uns des autres. Ainsi, chacun peut fonctionner (ou dysfonctionner) sans affecter les autres.
+Chacune de ces fonctions est appelée « service » et ces services peuvent être développés et déployés indépendamment les uns des autres. Ainsi, chacun peut fonctionner (ou dysfonctionner) sans affecter les autres.
